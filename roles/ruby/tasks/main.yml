@@ -1,10 +1,5 @@
 ---
 # tasks file for ruby
-<<<<<<< HEAD
-##- name: install ruby
-##  yum: name=ruby-2.0.0.648-29.el7 state=installed
-=======
 - name: install ruby
   yum: name=ruby-2.0.0.648-29.el7 state=installed
->>>>>>> 5f664af2193142019668e7ed7cf0db7438cdf68f
 
